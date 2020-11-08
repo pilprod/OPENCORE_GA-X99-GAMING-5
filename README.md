@@ -14,23 +14,12 @@ https://www.gigabyte.ru/products/page/mb/ga-x99-gaming_5rev_10#kf
 ##### 
 ### TURBO BOOST @ 3.64 GHz (not stable)
 
-
-....
-..
-.
-
-
-...
-
-
-...
-
-......
 ____
+
 
 # Configuration not ready...
 
-### I'm working for pay house, smoke and eat. No time =(
+##### I'm working for pay house, smoke and eat. No time =(
 
 ## Latest Geekbench 5 CPU score (10.13.6)
 
