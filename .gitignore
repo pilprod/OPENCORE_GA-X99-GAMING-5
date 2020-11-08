@@ -1,0 +1,7 @@
+.gitignore
+.git
+.DS_Store
+.vscode
+.env
+AAA
+AAA/*
