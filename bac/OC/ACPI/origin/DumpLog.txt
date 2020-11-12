@@ -1,0 +1,144 @@
+22:856  1:184  Found BIOS RSDP at %p
+22:856  0:000  Printing ACPI tables from RSDP %p ...
+22:856  0:000   %p: 'RSD PTR ˚ALASKA(0%∫$', Rev: -1156575305 (Acpi 2.0 or newer), Len: 36
+22:856  0:000    (Xsdt: %p, Rsdt: %p)
+22:856  0:000    %p: 'XSDT¨', 'XSDT', Rev: -1156575481, Len: 1
+22:856  0:000    %p: 'RSDTh', 'RSDT', Rev: -1156575481, Len: 1
+22:856  0:000    Tables in Xsdt: 17
+22:856  0:000    0. %p: 'FACP', 'FACP', Rev: -1156575481, Len: 5
+22:856  0:000        (Dsdt: BA2531D8, Facs: BA74AF80, XDsdt: ba2531d8, XFacs: 0)
+22:856  0:000        %p: 'DSDTçN', 'DSDT', Rev: -1156575625, Len: 2
+22:860  0:003        %p: 'FACS@', Ver: -1156575461, Len: 2
+22:860  0:000    1. %p: 'APICD', 'APIC', Rev: -1156575481, Len: 3
+22:860  0:000    2. %p: 'FPDTD', 'FPDT', Rev: -1156575481, Len: 1
+22:860  0:000    3. %p: 'FIDTú', 'FIDT', Rev: -1156575481, Len: 1
+22:860  0:000    4. %p: 'MCFG<', 'MCFG', Rev: -1156575481, Len: 1
+22:860  0:000    5. %p: 'SSDTm', 'SSDT', Rev: -1156575481, Len: 1
+22:860  0:000    6. %p: 'UEFIB', 'UEFI', Rev: -1156575481, Len: 1
+22:860  0:000    7. %p: 'HPET8', 'HPET', Rev: -1156575481, Len: 1
+22:860  0:000    8. %p: 'MSCTê', 'MSCT', Rev: -1156575481, Len: 1
+22:860  0:000    9. %p: 'SLIT-', 'SLIT', Rev: -1156575481, Len: 1
+22:860  0:000    10. %p: 'SRATX', 'SRAT', Rev: -1156575481, Len: 3
+22:860  0:000    11. %p: 'WDDT@', 'WDDT', Rev: -1156575481, Len: 1
+22:860  0:000    12. %p: 'SSDT2', 'SSDT', Rev: -1156575481, Len: 2
+22:860  0:000    13. %p: 'NITRq', 'NITR', Rev: -1156575481, Len: 2
+22:860  0:000    14. %p: 'BGRT8', 'BGRT', Rev: -1156575481, Len: 1
+22:860  0:000    15. %p: 'DMARƒ', 'DMAR', Rev: -1156575481, Len: 1
+22:860  0:000    16. %p: 'ASF!†', 'ASF!', Rev: -1156575481, Len: 32
+22:860  0:000    Tables in Rsdt: 17
+22:860  0:000    0. %p: 'FACPÑ', 'FACP', Rev: -1156575481, Len: 2
+22:860  0:000        (Dsdt: BA2531D8, Facs: BA74AF40)
+22:860  0:000        %p: 'DSDTçN', 'DSDT', Rev: -1156575625, Len: 2
+22:863  0:003        %p: 'FACS@', Ver: -1156575461, Len: 0
+22:863  0:000    1. %p: 'APICD', 'APIC', Rev: -1156575481, Len: 3
+22:863  0:000    2. %p: 'FPDTD', 'FPDT', Rev: -1156575481, Len: 1
+22:863  0:000    3. %p: 'FIDTú', 'FIDT', Rev: -1156575481, Len: 1
+22:863  0:000    4. %p: 'MCFG<', 'MCFG', Rev: -1156575481, Len: 1
+22:863  0:000    5. %p: 'SSDTm', 'SSDT', Rev: -1156575481, Len: 1
+22:863  0:000    6. %p: 'UEFIB', 'UEFI', Rev: -1156575481, Len: 1
+22:863  0:000    7. %p: 'HPET8', 'HPET', Rev: -1156575481, Len: 1
+22:863  0:000    8. %p: 'MSCTê', 'MSCT', Rev: -1156575481, Len: 1
+22:863  0:000    9. %p: 'SLIT-', 'SLIT', Rev: -1156575481, Len: 1
+22:863  0:000    10. %p: 'SRATX', 'SRAT', Rev: -1156575481, Len: 3
+22:863  0:000    11. %p: 'WDDT@', 'WDDT', Rev: -1156575481, Len: 1
+22:863  0:000    12. %p: 'SSDT2', 'SSDT', Rev: -1156575481, Len: 2
+22:863  0:000    13. %p: 'NITRq', 'NITR', Rev: -1156575481, Len: 2
+22:863  0:000    14. %p: 'BGRT8', 'BGRT', Rev: -1156575481, Len: 1
+22:863  0:000    15. %p: 'DMARƒ', 'DMAR', Rev: -1156575481, Len: 1
+22:863  0:000    16. %p: 'ASF!†', 'ASF!', Rev: -1156575481, Len: 32
+22:863  0:000  Found UEFI Acpi 2.0 RSDP at %p
+22:863  0:000  Saving ACPI tables from RSDP %p to Âçí‚ÅÑÂëê‚Åí‰áª‰Öå‰≠ì…Å„Ä®Î®•$ ...
+22:863  0:000   %p: 'RSD PTR ˚ALASKA(0%∫$', Rev: -1156575305 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+26:759  3:895    (Xsdt: %p, Rsdt: %p)
+26:759  0:000    %p: 'XSDT¨', 'XSDT', Rev: -1156575481, Len: 1 -> XSDT.aml
+26:795  0:036    %p: 'RSDTh', 'RSDT', Rev: -1156575481, Len: 1 -> RSDT.aml
+26:828  0:033    Tables in Xsdt: 17
+26:828  0:000    0. %p: 'FACP', 'FACP', Rev: -1156575481, Len: 5 -> FACP.aml
+26:861  0:032        (Dsdt: BA2531D8, Facs: BA74AF80, XDsdt: ba2531d8, XFacs: 0)
+26:861  0:000        %p: 'DSDTçN', 'DSDT', Rev: -1156575625, Len: 2 -> DSDT.aml
+26:933  0:071        %p: 'FACS@', Ver: -1156575461, Len: 2 -> FACS.aml
+26:970  0:036    1. %p: 'APICD', 'APIC', Rev: -1156575481, Len: 3 -> APIC.aml
+27:006  0:036    2. %p: 'FPDTD', 'FPDT', Rev: -1156575481, Len: 1 -> FPDT.aml
+27:043  0:036    3. %p: 'FIDTú', 'FIDT', Rev: -1156575481, Len: 1 -> FIDT.aml
+27:080  0:036    4. %p: 'MCFG<', 'MCFG', Rev: -1156575481, Len: 1 -> MCFG.aml
+27:116  0:036    5. %p: 'SSDTm', 'SSDT', Rev: -1156575481, Len: 1 -> SSDT-0-SataTabl.aml
+27:155  0:039    6. %p: 'UEFIB', 'UEFI', Rev: -1156575481, Len: 1 -> UEFI.aml
+27:192  0:036    7. %p: 'HPET8', 'HPET', Rev: -1156575481, Len: 1 -> HPET.aml
+27:229  0:036    8. %p: 'MSCTê', 'MSCT', Rev: -1156575481, Len: 1 -> MSCT.aml
+27:266  0:036    9. %p: 'SLIT-', 'SLIT', Rev: -1156575481, Len: 1 -> SLIT.aml
+27:303  0:036    10. %p: 'SRATX', 'SRAT', Rev: -1156575481, Len: 3 -> SRAT.aml
+29:376  2:073    11. %p: 'WDDT@', 'WDDT', Rev: -1156575481, Len: 1 -> WDDT.aml
+29:410  0:034    12. %p: 'SSDT2', 'SSDT', Rev: -1156575481, Len: 2 -> SSDT-1-PmMgt.aml
+29:459  0:048    13. %p: 'NITRq', 'NITR', Rev: -1156575481, Len: 2 -> NITR.aml
+29:496  0:036    14. %p: 'BGRT8', 'BGRT', Rev: -1156575481, Len: 1 -> BGRT.aml
+29:533  0:037    15. %p: 'DMARƒ', 'DMAR', Rev: -1156575481, Len: 1 -> DMAR.aml
+29:576  0:043    16. %p: 'ASF!†', 'ASF!', Rev: -1156575481, Len: 32 -> ASF!.aml
+30:519  0:942    Tables in Rsdt: 17
+30:519  0:000    0. %p: 'FACPÑ', 'FACP', Rev: -1156575481, Len: 2 -> RSDT-FACP.aml
+30:556  0:036        (Dsdt: BA2531D8, Facs: BA74AF40)
+30:556  0:000        %p: 'DSDTçN', 'DSDT', Rev: -1156575625, Len: 2
+30:559  0:003        %p: 'FACS@', Ver: -1156575461, Len: 0 -> RSDT-FACS.aml
+30:597  0:038    1. %p: 'APICD', 'APIC', Rev: -1156575481, Len: 3
+30:597  0:000    2. %p: 'FPDTD', 'FPDT', Rev: -1156575481, Len: 1
+30:597  0:000    3. %p: 'FIDTú', 'FIDT', Rev: -1156575481, Len: 1
+30:597  0:000    4. %p: 'MCFG<', 'MCFG', Rev: -1156575481, Len: 1
+30:597  0:000    5. %p: 'SSDTm', 'SSDT', Rev: -1156575481, Len: 1
+30:597  0:000    6. %p: 'UEFIB', 'UEFI', Rev: -1156575481, Len: 1
+30:597  0:000    7. %p: 'HPET8', 'HPET', Rev: -1156575481, Len: 1
+30:597  0:000    8. %p: 'MSCTê', 'MSCT', Rev: -1156575481, Len: 1
+30:597  0:000    9. %p: 'SLIT-', 'SLIT', Rev: -1156575481, Len: 1
+30:597  0:000    10. %p: 'SRATX', 'SRAT', Rev: -1156575481, Len: 3
+30:597  0:000    11. %p: 'WDDT@', 'WDDT', Rev: -1156575481, Len: 1
+30:597  0:000    12. %p: 'SSDT2', 'SSDT', Rev: -1156575481, Len: 2
+30:597  0:000    13. %p: 'NITRq', 'NITR', Rev: -1156575481, Len: 2
+30:597  0:000    14. %p: 'BGRT8', 'BGRT', Rev: -1156575481, Len: 1
+30:597  0:000    15. %p: 'DMARƒ', 'DMAR', Rev: -1156575481, Len: 1
+30:597  0:000    16. %p: 'ASF!†', 'ASF!', Rev: -1156575481, Len: 32
+30:597  0:000  Found UEFI Acpi 1.0 RSDP at %p
+30:597  0:000  Printing ACPI tables from RSDP %p ...
+30:597  0:000   %p: 'RSD PTR ˚ALASKA(0%∫$', Rev: -1156575305 (Acpi 2.0 or newer), Len: 36
+30:597  0:000    (Xsdt: %p, Rsdt: %p)
+30:597  0:000    %p: 'XSDT¨', 'XSDT', Rev: -1156575481, Len: 1
+30:597  0:000    %p: 'RSDTh', 'RSDT', Rev: -1156575481, Len: 1
+30:597  0:000    Tables in Xsdt: 17
+30:597  0:000    0. %p: 'FACP', 'FACP', Rev: -1156575481, Len: 5
+30:597  0:000        (Dsdt: BA2531D8, Facs: BA74AF80, XDsdt: ba2531d8, XFacs: 0)
+30:597  0:000        %p: 'DSDTçN', 'DSDT', Rev: -1156575625, Len: 2
+30:601  0:003        %p: 'FACS@', Ver: -1156575461, Len: 2
+30:601  0:000    1. %p: 'APICD', 'APIC', Rev: -1156575481, Len: 3
+30:601  0:000    2. %p: 'FPDTD', 'FPDT', Rev: -1156575481, Len: 1
+30:601  0:000    3. %p: 'FIDTú', 'FIDT', Rev: -1156575481, Len: 1
+30:601  0:000    4. %p: 'MCFG<', 'MCFG', Rev: -1156575481, Len: 1
+30:601  0:000    5. %p: 'SSDTm', 'SSDT', Rev: -1156575481, Len: 1
+30:601  0:000    6. %p: 'UEFIB', 'UEFI', Rev: -1156575481, Len: 1
+30:601  0:000    7. %p: 'HPET8', 'HPET', Rev: -1156575481, Len: 1
+30:601  0:000    8. %p: 'MSCTê', 'MSCT', Rev: -1156575481, Len: 1
+30:601  0:000    9. %p: 'SLIT-', 'SLIT', Rev: -1156575481, Len: 1
+30:601  0:000    10. %p: 'SRATX', 'SRAT', Rev: -1156575481, Len: 3
+30:601  0:000    11. %p: 'WDDT@', 'WDDT', Rev: -1156575481, Len: 1
+30:601  0:000    12. %p: 'SSDT2', 'SSDT', Rev: -1156575481, Len: 2
+30:601  0:000    13. %p: 'NITRq', 'NITR', Rev: -1156575481, Len: 2
+30:601  0:000    14. %p: 'BGRT8', 'BGRT', Rev: -1156575481, Len: 1
+30:601  0:000    15. %p: 'DMARƒ', 'DMAR', Rev: -1156575481, Len: 1
+30:601  0:000    16. %p: 'ASF!†', 'ASF!', Rev: -1156575481, Len: 32
+30:601  0:000    Tables in Rsdt: 17
+30:601  0:000    0. %p: 'FACPÑ', 'FACP', Rev: -1156575481, Len: 2
+30:601  0:000        (Dsdt: BA2531D8, Facs: BA74AF40)
+30:601  0:000        %p: 'DSDTçN', 'DSDT', Rev: -1156575625, Len: 2
+30:604  0:003        %p: 'FACS@', Ver: -1156575461, Len: 0
+30:604  0:000    1. %p: 'APICD', 'APIC', Rev: -1156575481, Len: 3
+30:604  0:000    2. %p: 'FPDTD', 'FPDT', Rev: -1156575481, Len: 1
+30:604  0:000    3. %p: 'FIDTú', 'FIDT', Rev: -1156575481, Len: 1
+30:604  0:000    4. %p: 'MCFG<', 'MCFG', Rev: -1156575481, Len: 1
+30:604  0:000    5. %p: 'SSDTm', 'SSDT', Rev: -1156575481, Len: 1
+30:604  0:000    6. %p: 'UEFIB', 'UEFI', Rev: -1156575481, Len: 1
+30:604  0:000    7. %p: 'HPET8', 'HPET', Rev: -1156575481, Len: 1
+30:604  0:000    8. %p: 'MSCTê', 'MSCT', Rev: -1156575481, Len: 1
+30:604  0:000    9. %p: 'SLIT-', 'SLIT', Rev: -1156575481, Len: 1
+30:604  0:000    10. %p: 'SRATX', 'SRAT', Rev: -1156575481, Len: 3
+30:604  0:000    11. %p: 'WDDT@', 'WDDT', Rev: -1156575481, Len: 1
+30:604  0:000    12. %p: 'SSDT2', 'SSDT', Rev: -1156575481, Len: 2
+30:604  0:000    13. %p: 'NITRq', 'NITR', Rev: -1156575481, Len: 2
+30:604  0:000    14. %p: 'BGRT8', 'BGRT', Rev: -1156575481, Len: 1
+30:604  0:000    15. %p: 'DMARƒ', 'DMAR', Rev: -1156575481, Len: 1
+30:604  0:000    16. %p: 'ASF!†', 'ASF!', Rev: -1156575481, Len: 32
