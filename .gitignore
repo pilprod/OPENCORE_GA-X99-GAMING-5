@@ -1,0 +1,12 @@
+.gitignore
+.git
+.DS_Store
+.vscode
+.env
+A
+A/*
+AA
+AA/*
+AAA
+AAA/*
+Utilities/gibMacOS/
